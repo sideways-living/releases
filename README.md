@@ -14,7 +14,7 @@ Keep every published version immutable so installed applications can validate an
 
 ## Voicemail Archive for Mac
 
-[Download Voicemail Archive 1.0.0 (5)](https://github.com/sideways-living/releases/releases/tag/voicemail-archive-v1.0.0-5). Developer ID signed, notarized and tested upgrading from build 4 through the public Sparkle feed. Requires macOS 14 or later; Apple silicon and Intel supported.
+[Download Voicemail Archive 1.0.0 (6)](https://github.com/sideways-living/releases/releases/tag/voicemail-archive-v1.0.0-6). Developer ID signed, notarized and tested upgrading from build 5 through the public Sparkle feed. Requires macOS 14 or later; Apple silicon and Intel supported.
 
 - Installer release tags: `voicemail-archive-vVERSION-BUILD`
 - Dedicated Sparkle feed: `https://github.com/sideways-living/releases/releases/download/voicemail-archive-updates/appcast.xml`

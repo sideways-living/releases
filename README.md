@@ -1,11 +1,13 @@
-# Voicemail Archive for Mac
+# Application releases
 
-This repository hosts Mac application installers and the signed Sparkle update feed. It does not contain voicemail recordings, screenshots, transcripts or the application source code.
+This repository hosts application installers and signed update feeds. It contains no voicemail records or application source code.
 
-## Downloads
+## Voicemail Archive for Mac
 
-Installers will appear under Releases once signing, notarization and update testing are complete. There is no public installer yet.
+Installers will appear under Releases after signing, notarization and update testing. No public installer is available yet.
 
-The application checks `releases/latest/download/appcast.xml`. Each stable release will include a signed ZIP, `appcast.xml` and `SHA256SUMS.txt`. Older release assets are retained.
+- Installer release tags: `voicemail-archive-vVERSION-BUILD`
+- Dedicated Sparkle feed: `https://github.com/sideways-living/releases/releases/download/voicemail-archive-updates/appcast.xml`
+- Each installer release includes its ZIP, appcast and SHA256SUMS.txt. The dedicated feed release holds the current validated appcast.
 
-Sparkle updates apply only to the Mac app. iPhone installation uses Apple-supported distribution separately.
+Keep older installer assets available. Other applications must use their own feed tags and must not replace the Voicemail Archive feed. Sparkle applies only to the Mac app; iPhone installation is separate.

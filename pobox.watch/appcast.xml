@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>pobox.watch</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 05 Oct 2026 18:57:07 +1100</pubDate>
+            <link>https://pobox.watch/</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sideways-living/releases/main/pobox.watch/releases/pobox.watch-1.0-3.zip" length="2215689" type="application/octet-stream" sparkle:edSignature="ZE+soiIcyYLGq1wUavm7MWi1OlKGw/86MRdNdoyNb0hQnRnjxXnkkoqIDjY5hVBA98HhwnKcdKDsTzXSdY82Bg=="/>
+        </item>
+    </channel>
+</rss>

@@ -22,6 +22,17 @@ Keep every published version immutable so installed applications can validate an
 
 Keep older installer assets available. Other applications must use their own feed tags and must not replace the Voicemail Archive feed. Sparkle applies only to the Mac app; iPhone installation is separate.
 
+## pobox.watch for Mac
+
+Signed Sparkle update archives and release metadata are stored under
+[`pobox.watch/`](pobox.watch/).
+
+- Sparkle feed: `https://raw.githubusercontent.com/sideways-living/releases/main/pobox.watch/appcast.xml`
+- Versioned installers: `pobox.watch/releases/`
+
+Keep every published version immutable. Sparkle applies only to the Mac app;
+iPhone installation remains through Apple distribution.
+
 ## CrabVault for Mac
 
 Signed Sparkle metadata is stored under [`crabvault/`](crabvault/).

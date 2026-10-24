@@ -31,3 +31,13 @@ Signed Sparkle metadata is stored under [`crabvault/`](crabvault/).
 - Release tags: `crabvault-vVERSION-BUILD`
 
 Keep every published version immutable. Sparkle applies only to the Mac app; iPhone installation is separate.
+
+## Body Count for Mac
+
+Signed Sparkle metadata is stored under [`body-count/`](body-count/).
+
+- Sparkle feed: `https://raw.githubusercontent.com/sideways-living/releases/main/body-count/appcast.xml`
+- Versioned installers: `body-count/releases/VERSION-BUILD/`
+- Source release tags: `sideways-living/body-count` `vVERSION`
+
+Keep every published version immutable. Sparkle applies only to the Mac app; iPhone installation is separate.

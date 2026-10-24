@@ -2,6 +2,16 @@
 
 This repository hosts application installers and signed update feeds. It contains no voicemail records or application source code.
 
+## IVO Evidence for Mac
+
+Signed Sparkle update archives and release metadata are stored under [`IVOEvidence/`](IVOEvidence/).
+
+- Sparkle feed: `https://raw.githubusercontent.com/sideways-living/releases/main/IVOEvidence/appcast.xml`
+- Versioned installers: `IVOEvidence/releases/VERSION/`
+- Each version contains the signed ZIP, release notes and `SHA256SUMS.txt`.
+
+Keep every published version immutable so installed applications can validate and retrieve historical updates.
+
 ## Voicemail Archive for Mac
 
 Installers will appear under Releases after signing, notarization and update testing. No public installer is available yet.

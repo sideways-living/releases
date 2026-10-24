@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>IVO Evidence</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Mon, 28 Sep 2026 16:35:14 +1000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# IVO Evidence 0.1.1
+
+## New Features
+
+- Automatic update checks and signed Sparkle update support through GitHub Releases.
+- A What's New summary that appears once for each installed app version.
+- Release notes grouped into New Features, Bug Fixes, and General Improvements.
+
+## Bug Fixes
+
+- Stabilised the complete Swift Testing gate for file-heavy evidence tests.
+- Hardened beta archive metadata handling for strict macOS signature verification.
+
+## General Improvements
+
+- Established beta semantic versioning from 0.1.1 toward the 1.0 release.
+- Added repeatable GitHub release, appcast, build-number, and update-signing tooling.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/sideways-living/releases/main/IVOEvidence/releases/0.1.1/IVO-Evidence-0.1.1.zip" length="4086124" type="application/octet-stream" sparkle:edSignature="K8z1UGxES3E2PPZcVpC9eMwE+W2WLEopy5uwt1Rg8iJmvpHxYQTKAANnuGp4xASg2BBd9elxsYUx1gMMY0v8DQ=="/>
+        </item>
+    </channel>
+</rss>

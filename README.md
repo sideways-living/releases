@@ -21,3 +21,13 @@ Installers will appear under Releases after signing, notarization and update tes
 - Each installer release includes its ZIP, appcast and SHA256SUMS.txt. The dedicated feed release holds the current validated appcast.
 
 Keep older installer assets available. Other applications must use their own feed tags and must not replace the Voicemail Archive feed. Sparkle applies only to the Mac app; iPhone installation is separate.
+
+## CrabVault for Mac
+
+Signed Sparkle metadata is stored under [`crabvault/`](crabvault/).
+
+- Sparkle feed: `https://raw.githubusercontent.com/sideways-living/releases/main/crabvault/appcast.xml`
+- Versioned installers: `crabvault/releases/VERSION-BUILD/`
+- Release tags: `crabvault-vVERSION-BUILD`
+
+Keep every published version immutable. Sparkle applies only to the Mac app; iPhone installation is separate.

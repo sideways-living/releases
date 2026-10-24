@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BKSTMT</title>
+        <item>
+            <title>0.2.14</title>
+            <pubDate>Mon, 19 Oct 2026 12:43:22 +1100</pubDate>
+            <sparkle:version>1015</sparkle:version>
+            <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Fixes the disabled Check for Updates command, removes generic salary suffixes across all statement templates, requires explicit delivery-subscription selection, and standardises retailer store-number descriptions.
+]]></description>
+            <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.14/BKSTMT-0.2.14.zip" length="8099521" type="application/octet-stream" sparkle:edSignature="oVCVwkEmjlIvL1Ufl5rJPI6IZxMAJu3gGVlLkzE8dKmj2I2JzQNVgmQ+6x77cZSF2Ig3uRAUO98I8+cvq9ZZDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.14/BKSTMT1015-996.delta" sparkle:deltaFrom="996" length="488170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vzYlq6TQXZCDV7o4Z0DtAjEVEiJ6kQZ9DODYTpHokqK/8/XrTAQg5PKafYYPXU/PzF9dyLKYxF0nKvQGRxDSCQ=="/>
+                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.14/BKSTMT1015-950.delta" sparkle:deltaFrom="950" length="967874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qyNfxLSewiCHbMKv7dYXbLdYBd6rKbYAv8W3Ch1CVN7V3lwRCNWvJxiJFH4cdlaNqfkH1VgAfptUvBVtnUraDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.2.9</title>
+            <pubDate>Thu, 08 Oct 2026 08:05:47 +1100</pubDate>
+            <sparkle:version>996</sparkle:version>
+            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Adds selectable profile duplication, automatic Full Name - Template profile naming, and separate Redbank Business One and Redbank Choice templates.
+]]></description>
+            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.14/BKSTMT-0.2.9.zip" length="8102950" type="application/octet-stream" sparkle:edSignature="OBcE6yVg1NQbLDAas0peVCl5z9nH2uiNXtrJ8r7BGjnJ5c0iNghBjHqGQGF3aEhlRyvAIaKUqv/zKUttdG7eAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.9/BKSTMT996-950.delta" sparkle:deltaFrom="950" length="935694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+nokWMYKogGC6PwM6ZGqwe4BMzYs+CWqaPoz5M6/qbyCIIPcM3LGf2vgoKi8iUi9BXdnOtFjztnqvzsCX53LDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.2.7</title>
+            <pubDate>Fri, 25 Sep 2026 19:48:46 +1000</pubDate>
+            <sparkle:version>950</sparkle:version>
+            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Sparkle integration validation
+]]></description>
+            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.14/BKSTMT-0.2.7.zip" length="8632559" type="application/octet-stream" sparkle:edSignature="a0XRqBYevHH8A6y1DxcfxU/xNU1ZtZsQQau7OjobMlRkN5z6p62aMBrYQ2tdwjwUWIRALqJzWPREgGHhzuTXDw=="/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,8 @@
+{
+  "version": "0.2.14",
+  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.14/BKSTMT-0.2.14.pkg",
+  "sha256": "d80223d5adbeee397dad1249941f397c0a5e30aa58efcdc6a2c8f9b901d87a05",
+  "minimumSystemVersion": "15.0",
+  "automaticallyDownloads": true,
+  "notes": "Fixes the disabled Check for Updates command, removes generic salary suffixes across all statement templates, requires explicit delivery-subscription selection, and standardises retailer store-number descriptions."
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CrabVault</title>
+        <item>
+            <title>0.9.9</title>
+            <pubDate>Fri, 06 Nov 2026 05:58:47 +1100</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.9.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# CrabVault beta 0.9.9
+
+## General improvements
+
+- Applies camera-image EXIF orientation before Vision OCR so rotated phone
+  photos are recognized in their intended reading direction.
+- Adds Australian identity, government-card, state, and banking terms to the
+  Vision recognition vocabulary.
+- Normalizes common OCR substitutions in document labels before assigning
+  otherwise-correct values to database fields.
+
+## Bug fixes
+
+- Passport fields accept the common short `Expiry` label.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/sideways-living/releases/main/crabvault/releases/0.9.9-19/CrabVault-0.9.9-19.zip" length="6990587" type="application/octet-stream" sparkle:edSignature="4CudVfpLc6bH4Dfm1SK6kf4fhUv3Y9UQiG7iYoRffInjR3npcIaOxtPjOU0qqu354ID0zfIudp2SWPusBy+1BQ=="/>
+        </item>
+    </channel>
+</rss>

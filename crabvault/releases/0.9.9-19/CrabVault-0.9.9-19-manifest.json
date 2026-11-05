@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-11-05T18:58:49.945205+00:00",
+  "product": "CrabVault",
+  "bundleIdentifier": "app.crabvault.CrabVault.mac",
+  "version": "0.9.9",
+  "build": "19",
+  "developmentTeam": "SYCB3H6AT5",
+  "sourceCommit": "1e60a37c1e03d46228fae452ce7da26e8149e589",
+  "sparkleFeedURL": "https://raw.githubusercontent.com/sideways-living/releases/main/crabvault/appcast.xml",
+  "githubReleaseRepository": "sideways-living/releases",
+  "githubArtifactPath": "crabvault",
+  "archive": "CrabVault-0.9.9-19.zip",
+  "archiveBytes": 6990587,
+  "archiveSHA256": "6688fc7c25de851049a82db6b635a71bbce9e6b1fda8e0067ad147c7cb1589ac"
+}

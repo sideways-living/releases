@@ -3,15 +3,15 @@
     <channel>
         <title>BKSTMT</title>
         <item>
-            <title>0.2.23</title>
-            <pubDate>Thu, 19 Nov 2026 12:43:24 +0000</pubDate>
-            <sparkle:version>1040</sparkle:version>
-            <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
+            <title>0.2.24</title>
+            <pubDate>Thu, 19 Nov 2026 12:52:41 +0000</pubDate>
+            <sparkle:version>1041</sparkle:version>
+            <sparkle:shortVersionString>0.2.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Generate realistic purchase cents while preserving category and merchant limits, child expense allocation, page-level merchant variety, progress targets, and exact statement balances.
+            <description sparkle:format="markdown"><![CDATA[Fix installed-app launch by resolving Swift resource bundles from Contents/Resources, with a packaged launch smoke test.
 ]]></description>
-            <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.23/BKSTMT-0.2.23.zip" length="10296594" type="application/octet-stream" sparkle:edSignature="W8FUtekE85hj2SivITS/k9TdRMq1IqVdZKawxdHVZER6bYH5S+2d79Ir8e7ZJhJHTe0EgvnPQOurVlS+KZ0dBQ=="/>
+            <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.24/BKSTMT-0.2.24.zip" length="10296633" type="application/octet-stream" sparkle:edSignature="PuOuDixwgH4yC3HFXAsFPwS+9Mjgiu6QDw4xeyQcXSOCiuQhdsz1HA0pLRLCgG/uhg6d+4IsOygisTwtklqdDQ=="/>
         </item>
     </channel>
 </rss>

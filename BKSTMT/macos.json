@@ -1,8 +1,8 @@
 {
-  "version": "0.2.23",
-  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.23/BKSTMT-0.2.23.pkg",
-  "sha256": "9e8c3b201a172a1e63bd5686842591e143fbff3229e21b533f070172a187abe1",
+  "version": "0.2.24",
+  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.24/BKSTMT-0.2.24.pkg",
+  "sha256": "c3f333dcaed14a2e9442554a02c93c37449b0e434e358fb2eaa755c573575dad",
   "minimumSystemVersion": "15.0",
   "automaticallyDownloads": true,
-  "notes": "Generate realistic purchase cents while preserving category and merchant limits, child expense allocation, page-level merchant variety, progress targets, and exact statement balances."
+  "notes": "Fix installed-app launch by resolving Swift resource bundles from Contents/Resources, with a packaged launch smoke test."
 }

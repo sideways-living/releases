@@ -1,8 +1,8 @@
 {
-  "version": "0.2.22",
-  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT-0.2.22.pkg",
-  "sha256": "f3b5c6146b88238abd5cc893dad98fe1f6e34b52de3d87f4ca08109ca4e3122e",
+  "version": "0.2.23",
+  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.23/BKSTMT-0.2.23.pkg",
+  "sha256": "9e8c3b201a172a1e63bd5686842591e143fbff3229e21b533f070172a187abe1",
   "minimumSystemVersion": "15.0",
   "automaticallyDownloads": true,
-  "notes": "Apply category limits to LCTR merchants, exclude banks, require supported-chain store numbers, and restore the live Sparkle feed."
+  "notes": "Generate realistic purchase cents while preserving category and merchant limits, child expense allocation, page-level merchant variety, progress targets, and exact statement balances."
 }

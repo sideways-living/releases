@@ -3,86 +3,15 @@
     <channel>
         <title>BKSTMT</title>
         <item>
-            <title>0.2.22</title>
-            <pubDate>Thu, 19 Nov 2026 22:12:14 +1100</pubDate>
-            <sparkle:version>1038</sparkle:version>
-            <sparkle:shortVersionString>0.2.22</sparkle:shortVersionString>
+            <title>0.2.23</title>
+            <pubDate>Thu, 19 Nov 2026 12:43:24 +0000</pubDate>
+            <sparkle:version>1040</sparkle:version>
+            <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Apply category limits to LCTR merchants, exclude banks, require supported-chain store numbers, and restore the live Sparkle feed.
+            <description sparkle:format="markdown"><![CDATA[Generate realistic purchase cents while preserving category and merchant limits, child expense allocation, page-level merchant variety, progress targets, and exact statement balances.
 ]]></description>
-            <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT-0.2.22.zip" length="8157040" type="application/octet-stream" sparkle:edSignature="kAg5YDI1U0jUv0cHakUNNvl7BrZHz81sKIu4+JVZWUVgUyDSrz75MsGCuvN9/QWXhPoJWZ6jhJS0BNOJ4vLgBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT1038-1037.delta" sparkle:deltaFrom="1037" length="13934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iLkGj69ClOTYANUUoyLDOoCY3Y/0LNui4EwmqptMeYXWkhtuElB17Y7mpzf8aynDhn8uE9ylLxTsrHsyYFsXDA=="/>
-                <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT1038-1036.delta" sparkle:deltaFrom="1036" length="240906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DThOfnEaH1HpwUn4w1AEik9/YZ3YhxvlDZjcLz2aze3AtIXqtRpnOK9xmvaqy0qgOQpkL0VSRPVJIjH5ROrcDw=="/>
-                <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT1038-1015.delta" sparkle:deltaFrom="1015" length="1186306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CpZgen/8d5RX4UD4O3wwhBus1yFXsAfbBHhgM5dLLUqISbFG8AVD9UAm68REWIfvHkQ3lQkUCrTB0Nl+ZjJsBA=="/>
-                <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT1038-996.delta" sparkle:deltaFrom="996" length="1228634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OOv1Kudeq1wjst2VJQ20WHsTwnSSH73cQ2wlTWYCJ3/+Z+2AqTH3jX6MXHOGmQQX82WW20ogKX1aY1YtLKn9AA=="/>
-                <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT1038-950.delta" sparkle:deltaFrom="950" length="1509402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xgDqIoXOH2MKyNI3WEzDvHXO2dqjd4O3NZLLrElFXrItzodYzIB93UFjJSc7a+sgrXUpY2lpAjQTh/JefKvJAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.21</title>
-            <pubDate>Thu, 19 Nov 2026 22:06:47 +1100</pubDate>
-            <sparkle:version>1037</sparkle:version>
-            <sparkle:shortVersionString>0.2.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Apply saved category limits to LCTR merchant review rows, align categories, exclude banks, and require store numbers for supported retail chains.
-]]></description>
-            <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT-0.2.21.zip" length="8157072" type="application/octet-stream" sparkle:edSignature="AhnTT1ANYg00vxaXDN5BaLURNvhiVGxWIm8Csrexu1WEpHr/uZReU1mOu0X1kGpuavVKw/j6eJjNgStsPGlUCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.21/BKSTMT1037-1036.delta" sparkle:deltaFrom="1036" length="237626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="faxXpERoHhisS6zq662iZWSM+zvGiAh/12YoPJNRzAyhehfYlt6JL6Gww8k/eJnZZRxxmz950qhYNQ+0NdfSBg=="/>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.21/BKSTMT1037-1015.delta" sparkle:deltaFrom="1015" length="1186054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lmZU/kwjBABO5FKzmB3TXm5tsHIOBAj0Q3zNyB3N/4QdsNJGZVu6cNJrbXcHGMrKjNsAVzeVKgY2+ppbJOBTDA=="/>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.21/BKSTMT1037-996.delta" sparkle:deltaFrom="996" length="1228658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ep1g/mBRsQHQu5wBmL8BUd9AecYxa7MPCsgvZbyvioS00vTh1zqTNUDAZCuq8P171Ja8IKezf2E36tpKkRoxBA=="/>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.21/BKSTMT1037-950.delta" sparkle:deltaFrom="950" length="1509670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tT8hQF00PoGcnIjkCqeYqHcRpnK0wwrGBz9kPNGW1WO85QycmBJpKXygxFb+xPYtHbReCw5RjaMFjskDz8e2Bg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.20</title>
-            <pubDate>Thu, 19 Nov 2026 21:51:27 +1100</pubDate>
-            <sparkle:version>1036</sparkle:version>
-            <sparkle:shortVersionString>0.2.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Align imported merchant categories, exclude banks, and require LCTR store numbers for supported retail chains.
-]]></description>
-            <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT-0.2.20.zip" length="8157305" type="application/octet-stream" sparkle:edSignature="3iOIDhgTHgpgAgNEJcvvWZc9QCPGeJn6/pcSBL1gJ+HRvuVax7dLUhh/MwC+o15Xv+gOQIYqB6JsXF9BcIKOAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.20/BKSTMT1036-1015.delta" sparkle:deltaFrom="1015" length="1187266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FoapTNY3pZO+pPYPw4l/UaYgg81jsY45zVFwUHRWGbImapTfZVyv5nQM76DaAjuJiyDb/0sxNuRIK2jM1AWZDQ=="/>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.20/BKSTMT1036-996.delta" sparkle:deltaFrom="996" length="1220358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hufrwZB15dJlgbs7JynVQ6O12YdcbTRj34FK2kkSDp/pTHGlv9RwwMIM0U5+WYlbNwaCerJUTWylY6Gk2Z9JBw=="/>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.20/BKSTMT1036-950.delta" sparkle:deltaFrom="950" length="1512022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6CRrm9oIa5BqKnHfIQj3JU/DPVyYQgDWUwdRQqqvnd2HkpAJzIpItb2D8trTLB+rfFzcrDXHs26BI8wkd0H4CQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.20</title>
-            <pubDate>Thu, 19 Nov 2026 21:51:27 +1100</pubDate>
-            <sparkle:version>1035</sparkle:version>
-            <sparkle:shortVersionString>0.2.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Align LCTR and Apple Maps merchant categories and exclude banks from merchant imports.
-]]></description>
-            <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.20/BKSTMT-0.2.20.zip" length="8155360" type="application/octet-stream" sparkle:edSignature="wDSJrAa+qkRN/lsrFk/Qa+7msTBbnOomCFGzwy4xXvqHJkQjdknr1l733IDMrECoYzC0SJlS4lyk/P8tCUI4Aw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.20/BKSTMT1035-1015.delta" sparkle:deltaFrom="1015" length="1179634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R2qrwpTwNm1Uz+uA/uycfLHu5UlrePizVcL2zDbq0o0abdBleJbRrDvctuOtynAAjpSyrpRNkVcZED7CPEy0DA=="/>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.20/BKSTMT1035-996.delta" sparkle:deltaFrom="996" length="1215678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dw0Zfo9nsuEN8CMDF6RuFJ1+nU4AuJepzJXbgampmGOftSM0l/urdRTwoLNTR5ZCneFrVGrJknbNwRqDxhUTAQ=="/>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/BKSTMT-v0.2.20/BKSTMT1035-950.delta" sparkle:deltaFrom="950" length="1503510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E7u2zd0zfJxukdE8J8uiNRAOZMbYTkq2GVsAzUtZAx+9mZ1B26fqEncKUMVn6eRAFwgQ4wI9F+ZjTHoKwVOdBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.14</title>
-            <pubDate>Mon, 19 Oct 2026 12:43:22 +1100</pubDate>
-            <sparkle:version>1015</sparkle:version>
-            <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Fixes the disabled Check for Updates command, removes generic salary suffixes across all statement templates, requires explicit delivery-subscription selection, and standardises retailer store-number descriptions.
-]]></description>
-            <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT-0.2.14.zip" length="8099521" type="application/octet-stream" sparkle:edSignature="oVCVwkEmjlIvL1Ufl5rJPI6IZxMAJu3gGVlLkzE8dKmj2I2JzQNVgmQ+6x77cZSF2Ig3uRAUO98I8+cvq9ZZDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.14/BKSTMT1015-996.delta" sparkle:deltaFrom="996" length="488170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vzYlq6TQXZCDV7o4Z0DtAjEVEiJ6kQZ9DODYTpHokqK/8/XrTAQg5PKafYYPXU/PzF9dyLKYxF0nKvQGRxDSCQ=="/>
-                <enclosure url="https://github.com/sideways-living/bkstmt-updates/releases/download/v0.2.14/BKSTMT1015-950.delta" sparkle:deltaFrom="950" length="967874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="943248" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qyNfxLSewiCHbMKv7dYXbLdYBd6rKbYAv8W3Ch1CVN7V3lwRCNWvJxiJFH4cdlaNqfkH1VgAfptUvBVtnUraDA=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.23/BKSTMT-0.2.23.zip" length="10296594" type="application/octet-stream" sparkle:edSignature="W8FUtekE85hj2SivITS/k9TdRMq1IqVdZKawxdHVZER6bYH5S+2d79Ir8e7ZJhJHTe0EgvnPQOurVlS+KZ0dBQ=="/>
         </item>
     </channel>
 </rss>

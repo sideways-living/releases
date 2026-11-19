@@ -1,8 +1,8 @@
 {
-  "version": "0.2.14",
-  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.14/BKSTMT-0.2.14.pkg",
-  "sha256": "d80223d5adbeee397dad1249941f397c0a5e30aa58efcdc6a2c8f9b901d87a05",
+  "version": "0.2.22",
+  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.22/BKSTMT-0.2.22.pkg",
+  "sha256": "f3b5c6146b88238abd5cc893dad98fe1f6e34b52de3d87f4ca08109ca4e3122e",
   "minimumSystemVersion": "15.0",
   "automaticallyDownloads": true,
-  "notes": "Fixes the disabled Check for Updates command, removes generic salary suffixes across all statement templates, requires explicit delivery-subscription selection, and standardises retailer store-number descriptions."
+  "notes": "Apply category limits to LCTR merchants, exclude banks, require supported-chain store numbers, and restore the live Sparkle feed."
 }

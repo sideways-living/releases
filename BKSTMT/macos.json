@@ -1,8 +1,8 @@
 {
-  "version": "0.2.24",
-  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.24/BKSTMT-0.2.24.pkg",
-  "sha256": "c3f333dcaed14a2e9442554a02c93c37449b0e434e358fb2eaa755c573575dad",
+  "version": "0.2.25",
+  "downloadURL": "https://github.com/sideways-living/releases/releases/download/BKSTMT-v0.2.25/BKSTMT-0.2.25.pkg",
+  "sha256": "0cb7e880733b0d67a822d22271aac6c908d1d75659c6acbccd6f3618dd7ef02a",
   "minimumSystemVersion": "15.0",
   "automaticallyDownloads": true,
-  "notes": "Fix installed-app launch by resolving Swift resource bundles from Contents/Resources, with a packaged launch smoke test."
+  "notes": "Fix installed launch by replacing runner-only SwiftPM resource paths with the signed application resource paths and validating from Applications."
 }
